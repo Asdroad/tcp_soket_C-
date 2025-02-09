@@ -1,2 +1,2 @@
 # tcp_soket_C-
-Создание простого клиент- сервисного приложения на сокетах TCP. Сервер должен обеспечивать решение квадратных уравнений. C консоль подается коэффициенты 
+Create a simple client-service application on TCP sockets. The server should provide the solution of quadratic equations. The coefficients are supplied to the console 
